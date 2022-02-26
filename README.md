@@ -2,14 +2,14 @@
 
 
 
-#Overall Design
+# Overall Design
 
 
-#Prototype Interactions
+# Prototype Interactions
 
 
 
-#Latent Additions
--point 1
+# Latent Additions
+- point 1
 
-##Seth Climenhaga
+## Seth Climenhaga
