@@ -17,7 +17,7 @@ This application is intended for students aged 18-30 and 45 and up who are conti
 - Push Notifications
 - Settings
 
-## Overall Design
+## Prototype Design
 ![Screen Shot 2022-02-26 at 9 49 19 PM](https://user-images.githubusercontent.com/56656904/155866321-0a7cf17c-9e46-414f-830d-976c095b0f4d.png)
 ## Prototype Interactions
 ![Screen Shot 2022-02-26 at 9 52 14 PM](https://user-images.githubusercontent.com/56656904/155866318-bfd8762a-e6a5-44e1-9899-b40e14e69c23.png)
