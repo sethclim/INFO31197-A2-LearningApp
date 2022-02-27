@@ -13,7 +13,7 @@
 - point 1
 -
 
-###Figma:
-###Video: sethclim/spacestagram
+### Figma:
+### Video: [A2 Demo](https://youtu.be/4rA3UWXM7s8) 
 
 ### Seth Climenhaga
