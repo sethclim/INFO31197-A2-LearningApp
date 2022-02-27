@@ -1,6 +1,6 @@
 # INFO31197-A2-LearningApp
 ## Overview
-A learning platform designed to improve user experience and provide seamless access to important school-related functions and information. 
+A learning platform app designed to improve user experience and provide seamless access to important school-related functions and information. 
 This application is intended for students aged 18-30 and 45 and up who are continuing their education.  Students can keep track of and interact with their classes in several ways, including receiving notifications, viewing calendars, chatting with classmates, and submitting assignments.  In addition, students can access services related to their campus, such as viewing school events, getting directions, and using a virtual student card. Try it out here: [Prototype](https://www.figma.com/proto/oH2GviXKkDJjTc8FieK4XL/Assignment2?page-id=0%3A1&node-id=24%3A3772&viewport=241%2C48%2C0.13&scaling=min-zoom&starting-point-node-id=24%3A3691)
 
 ## Features
@@ -12,7 +12,7 @@ This application is intended for students aged 18-30 and 45 and up who are conti
 - Chat Groups
 - Calender 
 - Campus Map
-- VIrtual Student Card
+- Virtual Student Card
 - Events Page
 - Push Notifications
 - Settings
@@ -27,7 +27,7 @@ This application is intended for students aged 18-30 and 45 and up who are conti
 - Print Services 
 - School Event Reservations 
 - Room Booking 
-- Customize Notifications Times
+- Customize Notification Times
 - Video Call
 
 ### Figma: [Design](https://www.figma.com/file/oH2GviXKkDJjTc8FieK4XL/Assignment2?node-id=0%3A1)
