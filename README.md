@@ -10,7 +10,7 @@ This application is intended for students aged 18-30 and 45 and up who are conti
 - Assignment Upload
 - Chat
 - Chat Groups
-- Calender 
+- Calendar 
 - Campus Map
 - Virtual Student Card
 - Events Page
